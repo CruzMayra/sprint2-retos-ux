@@ -33,3 +33,7 @@
 13. Separación de las diferentes secciones usando un título.
 14. El cambio en el cursor cuando se posa sobre un elemnto con interacción.
 15. Textos y elementos centrados.
+
+### Sketch
+
+1. [Dashboard Laboratoria](https://subefotos.com/ver/?dab4344dab0b399de029ef29cc4d3542o.jpg#codigos)
